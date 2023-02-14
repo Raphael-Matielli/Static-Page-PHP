@@ -163,7 +163,7 @@ $url = $routeParser->urlFor('root');
 
 This example requires [slim/twig-view](https://github.com/slimphp/Twig-View)
 
-```twig
+<!-- ```twig
 <!DOCTYPE html>
 <head>
     <meta charset="utf-8">
@@ -173,7 +173,7 @@ This example requires [slim/twig-view](https://github.com/slimphp/Twig-View)
 {% block content %}{% endblock %}
 </body>
 </html>
-```
+``` -->
 
 ## Support
 
